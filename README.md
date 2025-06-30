@@ -1,4 +1,4 @@
-# Modeling Churn in Recommender Systems with Aggregated Preferences - Simulations and Experiments
+# Churn-Aware Recommendation Planning under Aggregated Preference Feedback - Simulations and Experiments
 
 This repository contains the code for the paper "Modeling Churn in Recommender Systems with Aggregated Preferences".
 Specifically, it contains the code for the simulations and experiments presented in the paper (section 6 and appendix A).
